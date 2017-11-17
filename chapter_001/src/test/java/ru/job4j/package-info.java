@@ -1,5 +1,5 @@
 /**
-* Package for Calculate task.
+* Package for CalculateTest task.
 *
 * @author Andrey Morozov (bull13166@bk.ru)
 * @version 1.0
