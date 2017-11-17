@@ -55,4 +55,5 @@ public class CalculatorTest {
         double expected = 8D;
         assertThat(result, is(expected));
     }
+	
 }

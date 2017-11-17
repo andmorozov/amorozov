@@ -49,4 +49,5 @@ public class Calculator {
 	public double getResult() {
 		return this.result;
 	}	
+	
 }
