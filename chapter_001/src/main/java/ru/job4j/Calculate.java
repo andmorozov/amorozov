@@ -1,4 +1,4 @@
-package chapter_001.src.main.java.ru.job4j;
+package ru.job4j;
 /**
 * Class Calculate решение задачи части 001 урок 1.1 "Hello world"
 *
